@@ -1,0 +1,8 @@
+{
+  "name": "HireFlow AI - Job Application CRM",
+  "description": "A minimalist, AI-powered job application CRM featuring visual pipeline management, resume tailoring, and deep analytics inspired by Linear and Attio.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
